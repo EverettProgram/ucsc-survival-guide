@@ -1,0 +1,67 @@
+#intro{font-size: 12; }
+#benefit{font-size:12;}
+#link{font-size:12; text-align:center;}
+#org{font-size:12;}
+
+#button {
+background-color: white;
+font-family: trebuchet ms;
+}
+
+.class {
+background-color: lightblue;
+}
+
+#collapsible {
+	background-color: white;
+	
+}
+
+h1 {
+
+ color: blue;
+}
+
+p {
+ 
+	font-family: trebuchet ms;
+}
+
+#home {
+background-color: #0B00B2;
+}
+#dormnecessities {
+background-color: #0B00B2;
+}
+#study {
+background-color: #0B00B2;
+}
+#studyspots {
+background-color: #0B00B2;
+}
+#departmentlocations {
+background-color: #0B00B2;
+}
+#offcampus {
+background-color: #0B00B2;
+}
+#studentorg {
+background-color: #0B00B2;
+}
+#transportation {
+background-color: #0B00B2;
+}
+#etiquette {
+background-color: #0B00B2;
+}
+#classeshome {
+background-color: #0B00B2;
+}
+
+
+
+
+
+
+.acol .ui-collapsible-heading-collapsed > .ui-collapsible-heading-toggle {
+       background:lightblue !important;}
