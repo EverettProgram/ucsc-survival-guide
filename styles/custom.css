@@ -58,8 +58,11 @@ background-color: #0B00B2;
 background-color: #0B00B2;
 }
 
-
-
+.front-page-paragraph {
+	color: white;
+	text-align: center;
+	text-shadow: none;
+}
 
 
 
