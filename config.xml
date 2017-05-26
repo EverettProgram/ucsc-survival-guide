@@ -8,7 +8,7 @@
 
 		version   = "0.0.0">
 		<name>UCSC Guide</name>
-		<description>DESCRIPTION</description>
+		<description>The UCSC Survival Guide provides all of the information students will need to survive and thrive on the UC Santa Cruz campus. </description>
 		<author href="everettprogram.org/yei" email="info@everettprogram.org">Everett Program</author>
 	<!--id        = "com.htfu.everett"-->
 	 <!--
