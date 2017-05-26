@@ -7,7 +7,7 @@
 		versionCode="10"
 
 		version   = "0.0.0">
-		<name>APP NAME</name>
+		<name>UCSC Guide</name>
 		<description>DESCRIPTION</description>
 		<author href="everettprogram.org/yei" email="info@everettprogram.org">Everett Program</author>
 	<!--id        = "com.htfu.everett"-->
