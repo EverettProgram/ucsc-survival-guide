@@ -99,16 +99,17 @@
 			<!--Default-750@2x~iphone6-landscape_1334x750-->
     	<splash src="resources/ios/splash/Default-Landscape-736h.png" gap:platform="ios"    height="1242" width="2208"/>
     	<!--Default-Landscape@2x~ipad_2048x1496-->
-    	<splash src="resources/ios/splash/Default-Landscape@2x~ipad.png" gap:platform="ios" height="1536" width="2048"/>
+    	<splash src="resources/ios/splash/Default-Portrait@2x~ipad.png" gap:platform="ios" height="1536" width="2048"/>
     	<splash src="resources/ios/splash/Default-Landscape~ipad.png" gap:platform="ios"    height="768" width="1024"/>
     	<!--Default-Portrait@2x~ipad_1536x2008-->
+    	<splash src="resources/ios/splash/Default~iphone.png" gap:platform="ios"            height="1536" width="2048"/>
     	<splash src="resources/ios/splash/Default-Landscapes@2x~ipad.png" gap:platform="ios"  height="1536" width="2048"/>
       <splash src="resources/ios/splash/Default-Portrait~ipad.png" gap:platform="ios"     height="1024" width="768"/> <!--altered fro 768-->
 			<!--Default-->
 			<splash src="resources/ios/splash/Default@2x~iphone.png" gap:platform="ios"         height="960" width="640"/>
 			<!--Default~ipad-->
 			<splash src="resources/ios/splash/Default~iphone.png" gap:platform="ios"            height="480" width="320"/>
-		
+			
 		<splash src="resources/ios/splash/Default~iphone-landscape.png" gap:platform="ios"            height="320" width="480"/>
 
     
