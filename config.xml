@@ -108,9 +108,8 @@
 			<splash src="resources/ios/splash/Default@2x~iphone.png" gap:platform="ios"         height="960" width="640"/>
 			<!--Default~ipad-->
 			<splash src="resources/ios/splash/Default~iphone.png" gap:platform="ios"            height="480" width="320"/>
-			
-    <splash src="resources/ios/splash/Default-Landscape@~ipadpro.png" gap:platform="ios"  height="2048" width="2732"/>
-    <splash src="resources/ios/splash/Default-Portrait@~ipadpro.png" gap:platform="ios"   height="2732" width="2048"/>
+		
+		<splash src="resources/ios/splash/Default~iphone-landscape.png" gap:platform="ios"            height="320" width="480"/>
 
     
     
