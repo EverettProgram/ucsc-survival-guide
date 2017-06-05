@@ -3,6 +3,16 @@
 #link{font-size:12; text-align:center;}
 #org{font-size:12;}
 
+#white-logo {
+	width: 50%;
+	margin: auto;
+	padding-top: 5px;
+	
+}
+#white-logop {
+text-align: center;
+}
+
 #button {
 background-color: white;
 font-family: trebuchet ms;
