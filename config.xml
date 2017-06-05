@@ -6,7 +6,7 @@
 		id = "com.everettprogram.survival"
 		versionCode="10"
 
-		version   = "0.0.0">
+		version   = "1.0.0">
 		<name>UCSC Guide</name>
 		<description>The UCSC Survival Guide provides all of the information students will need to survive and thrive on the UC Santa Cruz campus. </description>
 		<author href="everettprogram.org/yei" email="info@everettprogram.org">Everett Program</author>
