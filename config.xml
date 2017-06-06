@@ -93,37 +93,20 @@
   </platform> 
 	
 	<platform name="ios">
-   		<splash src="resources/ios/splash/Default-568h@2x~iphone.png" gap:platform="ios"    height="1136" width="640"/>
-			<splash src="resources/ios/splash/Default-667h.png" gap:platform="ios"              height="1334" width="750"/>
-    	<splash src="resources/ios/splash/Default-736h.png" gap:platform="ios"              height="2208" width="1242"/>
-			<!--Default-750@2x~iphone6-landscape_1334x750-->
-    	<splash src="resources/ios/splash/Default-Landscape-736h.png" gap:platform="ios"    height="1242" width="2208"/>
-    	<!--Default-Landscape@2x~ipad_2048x1496-->
-    	<splash src="resources/ios/splash/Default-Portrait@2x~ipad.png" gap:platform="ios" height="1536" width="2048"/>
-    	<splash src="resources/ios/splash/Default-Landscape~ipad.png" gap:platform="ios"    height="768" width="1024"/>
-    	<!--Default-Portrait@2x~ipad_1536x2008-->
-    	<splash src="resources/ios/splash/Default~iphone.png" gap:platform="ios"            height="1536" width="2048"/>
-    	<splash src="resources/ios/splash/Default-Landscapes@2x~ipad.png" gap:platform="ios"  height="1536" width="2048"/>
-      <splash src="resources/ios/splash/Default-Portrait~ipad.png" gap:platform="ios"     height="1024" width="768"/> <!--altered fro 768-->
-			<!--Default-->
-			<splash src="resources/ios/splash/Default@2x~iphone.png" gap:platform="ios"         height="960" width="640"/>
-			<!--Default~ipad-->
-			<splash src="resources/ios/splash/Default~iphone.png" gap:platform="ios"            height="480" width="320"/>
-			
-			<splash src="resources/ios/splash/Default~iphone5-portrait.png" gap:platform="ios"            height="960" width="640"/>
-		<splash src="resources/ios/splash/Default~iphone5-landscape.png" gap:platform="ios"            height="640" width="960"/>
-		
-		<splash src="resources/ios/splash/Default~iphone5-portrait.png" gap:platform="ios"            height="1136" width="640"/>
-		<splash src="resources/ios/splash/Default~iphone5-landscape.png" gap:platform="ios"            height="640" width="1136"/>
-
-    
-    
-    
-    	
-    	
-    
-    
-    <icon src="resources/ios/icon/icon.png" width="57" height="57"/>
+  <platform name="ios">
+		<splash src="resources/ios/splash/Default-568h@2x~iphone.png" width="640" height="1136"/>
+    <splash src="resources/ios/splash/Default-667h.png" width="750" height="1334"/>
+    <splash src="resources/ios/splash/Default-736h.png" width="1242" height="2208"/>
+    <splash src="resources/ios/splash/Default-Landscape-736h.png" width="2208" height="1242"/>
+    <splash src="resources/ios/splash/Default-Landscape@2x~ipad.png" width="2048" height="1536"/>
+    <splash src="resources/ios/splash/Default-Landscape@~ipadpro.png" width="2732" height="2048"/>
+    <splash src="resources/ios/splash/Default-Landscape~ipad.png" width="1024" height="768"/>
+    <splash src="resources/ios/splash/Default-Portrait@2x~ipad.png" width="1536" height="2048"/>
+    <splash src="resources/ios/splash/Default-Portrait@~ipadpro.png" width="2048" height="2732"/>
+    <splash src="resources/ios/splash/Default-Portrait~ipad.png" width="768" height="1024"/>
+    <splash src="resources/ios/splash/Default@2x~iphone.png" width="640" height="960"/>
+    <splash src="resources/ios/splash/Default~iphone.png" width="320" height="480"/>
+	</platform>
     
   </platform>
   
