@@ -88,6 +88,11 @@ background-color: #0B00B2;
 	text-shadow: none;
 }
 
+.white-link {
+	color: white;
+	text-shadow: none;
+}
+
 
 
 .acol .ui-collapsible-heading-collapsed > .ui-collapsible-heading-toggle {
